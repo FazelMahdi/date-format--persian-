@@ -1,12 +1,12 @@
-gregorian to jalali
+#gregorian to jalali
 
 There is no need for heavy libraries anymore, such as momentJs.
 
 for use:
- import formatDate or formatDateTime into your code and Done. You did it.
+ import formatDate, formatDateTime or formatTime into your code and Done. You did it.
  
 ---------------------------------------------------------------------------
-Sample: 
+#Sample: 
 
 import { formatDate } from './date-format'
 
